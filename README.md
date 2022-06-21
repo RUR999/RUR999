@@ -1,6 +1,7 @@
 <!Github README>
 <img src="pic/rur.svg" alt="rur"></img>
-<a href="https://github.com/RUR999"><img src="https://count.getloli.com/get/@:RUR999" alt="RUR" /></a><br>
+<img src="pic/code.gif" alt="rur"></img>
+<img align="center" src="https://count.getloli.com/get/@:RUR999" alt="RUR" />
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=RUR999&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite"></img>	
